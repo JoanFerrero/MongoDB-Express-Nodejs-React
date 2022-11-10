@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/usuario/agregarusuario
+Content-Type: application/json
+
+{
+    "nombre": "cas",
+    "email": "cas",
+    "telefono": "cas",
+    "idusuario": "La9zzcah",
+}
